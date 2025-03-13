@@ -1,0 +1,8 @@
+*.out
+_app_cuda_version*
+_cuobjdump_list_ptx*
+*.ptx
+*.ptxas
+checkpoint_files/
+*.txt
+*.log
